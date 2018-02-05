@@ -9,7 +9,7 @@ One commit per day strategies
 * [CAE study guide](https://github.com/backgroundapps/caeselfiestudy) - repo to practice for the CAE exam
 * [Clojure Time](https://github.com/backgroundapps/clojuretime) - tasks to learn more about Clojure lang
 * [Groovy Utils](https://github.com/backgroundapps/groovy-utils) - REPO to store interesting groovy scripts
-* [SouJava-Labs](https://github.com/SouJava-Rio/soujava-rio-labs)
-* [FileHelpers4J](https://github.com/vicenthy/FileHelpers4J)
+* [SouJava-Labs](https://github.com/SouJava-Rio/soujava-rio-labs) - Exemplos para ajudar a comunidade Java com a plataforma
+* [FileHelpers4J](https://github.com/vicenthy/FileHelpers4J) - Lib para trabalhar com delimitação e formatação de arquivo
 
 
